@@ -1,0 +1,29 @@
+{
+    "name": "WAX",
+    "website": "https://wax.io",
+    "description": "WAX is a layer-1 network that aims to build an ecosystem for dApps, NFT collectibles and emerging play-to-earn games.",
+    "explorer": "https://wax.bloks.io",
+    "research": "https://research.binance.com/en/projects/wax",
+    "symbol": "WAX",
+    "type": "coin",
+    "decimals": 8,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/worldwide-asset-exchange"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WAX_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/dJtPetMdfb"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/worldwide-asset-exchange/whitepaper"
+        }
+    ]
+}

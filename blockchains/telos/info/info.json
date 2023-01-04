@@ -1,0 +1,33 @@
+{
+    "name": "Telos",
+    "website": "https://www.telos.net",
+    "description": "Telos is a third-generation blockchain platform for building fast, scalable distributed applications with feeless transactions.",
+    "explorer": "https://explorer.telos.net",
+    "research": "",
+    "symbol": "TLOS",
+    "type": "coin",
+    "decimals": 4,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/telosnetwork"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/HelloTelos"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/HelloTelos"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg//9hurWxq3Gf"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.allcryptowhitepapers.com/wp-content/uploads/2019/10/telos_white_paper_english.pdf"
+        }
+    ]
+}
