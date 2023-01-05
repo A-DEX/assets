@@ -1,0 +1,27 @@
+{
+    "name": "pTokens USDT (PUSDT)",
+    "website": "https://p.network",
+    "description": "",
+    "explorer": "https://explorer.telos.net/account/usdt.ptokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "PUSDT",
+    "contract": "usdt.ptokens",
+    "status": "active",
+    "tags": [
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pNetworkDeFi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pNetworkDefi"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/ptokens-usdt"
+        }
+    ]
+}

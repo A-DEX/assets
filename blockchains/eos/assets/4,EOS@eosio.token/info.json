@@ -1,0 +1,27 @@
+{
+    "name": "EOS",
+    "website": "https://eosnetwork.com",
+    "description": "",
+    "explorer": "https://bloks.io/tokens/EOS-eos-eosio.token",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "EOS",
+    "contract": "eosio.token",
+    "status": "active",
+    "tags": [
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AntelopeIO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/antelopeio"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/eos"
+        }
+    ]
+}

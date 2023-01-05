@@ -1,6 +1,6 @@
 {
     "name": "EOSIO",
-    "website": "https://eos.io",
+    "website": "https://eosnetwork.com",
     "description": "EOSIO is a highly performant open-source blockchain platform, built to support and operate safe, compliant, and predictable digital infrastructures.",
     "explorer": "https://bloks.io",
     "research": "https://research.binance.com/en/projects/eos",
@@ -11,15 +11,19 @@
     "links": [
         {
             "name": "github",
-            "url": "https://github.com/EOSIO"
+            "url": "https://github.com/AntelopeIO"
         },
         {
             "name": "twitter",
-            "url": "https://twitter.com/eosio"
+            "url": "https://twitter.com/EosNFoundation"
         },
         {
             "name": "discord",
             "url": "https://discord.gg/eos-network"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/EOSNetworkFoundation"
         },
         {
             "name": "whitepaper",
