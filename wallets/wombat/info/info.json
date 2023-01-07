@@ -1,0 +1,24 @@
+{
+    "name": "Wombat",
+    "website": "https://www.wombat.app",
+    "description": "Wombat is your home for NFT-Gaming. Become part of the gaming revolution and play together with millions of gamers across the globe. With Wombat you can build your legacy as a collector of rare NFTs by playing the best games out there. You own your NFTs and can collect, trade or just share them with your friends.",
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/wombat-tech"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/adoptwombat"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/getwombat"
+        },
+        {
+            "name": "discord",
+            "url": "http://discord.gg/wombatgamers"
+        }
+    ]
+}

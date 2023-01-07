@@ -2,7 +2,7 @@
     "name": "pTokens BTC (PBTC)",
     "website": "https://p.network",
     "description": "",
-    "explorer": "https://bloks.io/tokens/PBTC-eos-btc.ptokens",
+    "explorer": "https://explorer.telos.net/account/btc.ptokens",
     "type": "",
     "precision": 8,
     "symbol_code": "PBTC",

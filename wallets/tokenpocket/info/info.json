@@ -1,0 +1,24 @@
+{
+    "name": "Token Pocket",
+    "website": "https://www.tokenpocket.pro",
+    "description": "TokenPocket is a world-leading crypto wallet, supporting public blockchains including BTC, ETH, BSC, TRON, Aptos, Polygon, Solana, OKExChain, Polkadot, Kusama, EOS and Layer2.",
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/TP-Lab"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TokenPocket_TP"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/tokenpocket_en"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/NKPM8TXFQk"
+        }
+    ]
+}

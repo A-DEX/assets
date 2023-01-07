@@ -1,0 +1,24 @@
+{
+    "name": "Math",
+    "website": "https://mathwallet.org",
+    "description": "MathWallet is a multi-platform (mobile/desktop/hardware) universal crypto wallet that enables token storage of 100+ chains including BTC, ETH, Polkadot, Filecoin, EOS, Solana, BinanceChain, Cosmos.",
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/mathwallet"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Mathwallet"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/mathwalletnews"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/gXSfnk5eP5"
+        }
+    ]
+}

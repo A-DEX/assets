@@ -1,0 +1,27 @@
+{
+    "name": "Telos (TLOS)",
+    "website": "https://www.telos.net",
+    "description": "",
+    "explorer": "https://explorer.telos.net/account/eosio.token",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TLOS",
+    "contract": "eosio.token",
+    "status": "active",
+    "tags": [
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pNetworkDeFi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pNetworkDefi"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/ptokens-usdt"
+        }
+    ]
+}

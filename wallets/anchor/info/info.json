@@ -1,0 +1,20 @@
+{
+    "name": "Anchor",
+    "website": "https://greymass.com/en/anchor",
+    "description": "Anchor is a security and privacy focused open-source digital wallet for all EOSIO-based networks.",
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/greymass"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/greymass"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/anchorwalletdev"
+        }
+    ]
+}
