@@ -4,9 +4,10 @@
     "description": "Telos is a third-generation blockchain platform for building fast, scalable distributed applications with feeless transactions.",
     "explorer": "https://explorer.telos.net",
     "research": "",
-    "symbol": "TLOS",
+    "precision": 4,
+    "symbol_code": "TLOS",
+    "contract": "eosio.token",
     "type": "coin",
-    "decimals": 4,
     "status": "active",
     "links": [
         {

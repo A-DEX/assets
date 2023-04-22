@@ -4,9 +4,10 @@
     "description": "WAX is a layer-1 network that aims to build an ecosystem for dApps, NFT collectibles and emerging play-to-earn games.",
     "explorer": "https://wax-test.bloks.io",
     "research": "https://research.binance.com/en/projects/wax",
-    "symbol": "WAX",
+    "precision": 8,
+    "symbol_code": "WAX",
+    "contract": "eosio.token",
     "type": "coin",
-    "decimals": 8,
     "status": "active",
     "links": [
         {

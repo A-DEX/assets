@@ -4,9 +4,10 @@
     "description": "EOSIO is a highly performant open-source blockchain platform, built to support and operate safe, compliant, and predictable digital infrastructures.",
     "explorer": "https://local.bloks.io/?nodeUrl=http%3A%2F%2Fjungle4.cryptolions.io&systemDomain=eosio&hyperionUrl=https%3A%2F%2Fjungle4.cryptolions.io",
     "research": "",
-    "symbol": "EOS",
+    "precision": 4,
+    "symbol_code": "EOS",
+    "contract": "eosio.token",
     "type": "coin",
-    "decimals": 4,
     "status": "active",
     "links": [
         {
