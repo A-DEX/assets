@@ -1,0 +1,24 @@
+{
+    "name": "USDCASH",
+    "website": "https://paycashswap.com",
+    "description": "",
+    "explorer": "https://bloks.io/tokens/USDCASH-eos-token.pcash",
+    "type": "",
+    "precision": 5,
+    "symbol_code": "USDCASH",
+    "contract": "token.pcash",
+    "status": "active",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PayCashTweet"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/paycashchat"
+        }
+    ]
+}

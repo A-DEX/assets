@@ -1,0 +1,24 @@
+{
+    "name": "USN",
+    "website": "https://defibox.io",
+    "description": "USN stable coin is used to manage the account of collateral.",
+    "explorer": "https://bloks.io/tokens/USN-eos-danchortoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "USN",
+    "contract": "danchortoken",
+    "status": "active",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Defiboxofficial"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Defibox_official"
+        }
+    ]
+}
