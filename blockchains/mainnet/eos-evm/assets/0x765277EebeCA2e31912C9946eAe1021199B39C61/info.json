@@ -1,0 +1,28 @@
+{
+    "name": "USD Coin",
+    "website": "https://www.circle.com/en/usdc",
+    "description": "USDC is a faster, safer, and more efficient way to send, spend, and exchange money around the globe. USDC powers apps to provide anytime access to payments and financial services.",
+    "explorer": "https://explorer.evm.eosnetwork.com/token/0x765277EebeCA2e31912C9946eAe1021199B39C61",
+    "type": "ERC20",
+    "symbol": "USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/circle"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/usd-coin"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf"
+        }
+    ]
+}

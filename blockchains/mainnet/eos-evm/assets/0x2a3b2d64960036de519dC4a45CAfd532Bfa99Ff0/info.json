@@ -1,0 +1,35 @@
+{
+    "name": "Noah",
+    "website": "https://noahark.pro",
+    "description": "Noah Swap is an open source decentralized exchange that allows users to trade freely on the chain",
+    "explorer": "https://explorer.evm.eosnetwork.com/token/0x2a3b2d64960036de519dC4a45CAfd532Bfa99Ff0",
+    "type": "ERC20",
+    "symbol": "NOAH",
+    "decimals": 18,
+    "status": "active",
+    "id": "",
+    "tags": [
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/NoaharkEVM"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Noah_DeFi"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@noahdefi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/noahevm"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/noahswap"
+        }
+    ]
+}

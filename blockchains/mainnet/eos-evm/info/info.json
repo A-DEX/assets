@@ -1,0 +1,34 @@
+{
+    "name": "EOS EVM",
+    "website": "https://eosnetwork.com",
+    "description": "EOS EVM is a fully compatible Ethereum Virtual Machine (EVM) that runs on the EOS Network.",
+    "explorer": "https://explorer.evm.eosnetwork.com",
+    "research": "https://eosnetwork.com/eos-evm",
+    "precision": 18,
+    "symbol_code": "WEOS",
+    "contract": "0xc00592aA41D32D137dC480d9f6d0Df19b860104F",
+    "type": "coin",
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/eosnetworkfoundation/eos-evm"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/EosNFoundation"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/eos-network"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/EOSNetworkFoundation"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://eosn.foundation/blog/category/eos-blue-papers/"
+        }
+    ]
+}
