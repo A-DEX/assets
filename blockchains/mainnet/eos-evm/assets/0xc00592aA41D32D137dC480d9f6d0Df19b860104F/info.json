@@ -1,0 +1,36 @@
+{
+    "name": "Wrapped EOS",
+    "website": "https://eosnetwork.com",
+    "description": "",
+    "explorer": "https://explorer.evm.eosnetwork.com/token/0xc00592aA41D32D137dC480d9f6d0Df19b860104F",
+    "type": "ERC20",
+    "symbol": "WEOS",
+    "decimals": 18,
+    "status": "active",
+    "id": "",
+    "tags": [
+        "wrapped"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/eosnetworkfoundation/eos-evm"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/EosNFoundation"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/eos-network"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/EOSNetworkFoundation"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/wrapped-eos"
+        }
+    ]
+}
