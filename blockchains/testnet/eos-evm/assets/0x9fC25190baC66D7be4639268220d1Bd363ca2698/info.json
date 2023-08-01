@@ -1,0 +1,32 @@
+{
+    "name": "Tether USD",
+    "website": "https://tether.to",
+    "description": "TrueUSD is the first independently-verified digital asset redeemable 1-for-1 for US Dollars.",
+    "explorer": "https://explorer.testnet.evm.eosnetwork.com/token/0x9fC25190baC66D7be4639268220d1Bd363ca2698",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Tether_to/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OfficialTether"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/tether"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://tether.to/en/whitepaper"
+        }
+    ]
+}
