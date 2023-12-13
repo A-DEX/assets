@@ -1,0 +1,16 @@
+{
+    "name": "Cleos",
+    "website": "https://eosnetwork.com/",
+    "description": "Cleos is a command line tool that interfaces with the REST API exposed by nodeos. Developers can also use cleos to deploy and test Antelope(EOSIO) smart contracts.",
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/AntelopeIO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/antelopedevs"
+        }
+    ]
+}
