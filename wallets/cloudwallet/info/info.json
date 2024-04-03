@@ -1,0 +1,16 @@
+{
+    "name": "Cloud Wallet",
+    "website": "https://www.mycloudwallet.com",
+    "description": "The Cloud Wallet is your all-inclusive gateway access to multiple blockchains, over 30,000 dApps, premier NFT collections, video games and much more.",
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WAX_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://go.wax.io/discord"
+        }
+    ]
+}
