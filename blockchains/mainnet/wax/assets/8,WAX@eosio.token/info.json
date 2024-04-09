@@ -1,0 +1,31 @@
+{
+    "name": "WAX.io",
+    "website": "https://www.wax.io",
+    "description": "The #1 Blockchain for Gaming and NFTs",
+    "explorer": "https://wax.bloks.io/tokens/WAX-wax-eosio.token",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "WAX",
+    "contract": "eosio.token",
+    "status": "active",
+    "tags": [
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WAX_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://go.wax.io/Discord"
+        },
+        {
+            "name": "medium",
+            "url": "https://wax-io.medium.com"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/wax"
+        }
+    ]
+}

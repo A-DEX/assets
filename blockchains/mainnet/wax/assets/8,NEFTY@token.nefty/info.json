@@ -1,0 +1,31 @@
+{
+    "name": "NeftyBlocks",
+    "website": "https://neftyblocks.com",
+    "description": "NeftyBlocks is the #1 trade to Earn marketplace for buying, selling and creating digital collectibles. Explore the power of NFTs today using a wide range of community-driven tools.",
+    "explorer": "https://wax.bloks.io/tokens/NEFTY-wax-token.nefty",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "NEFTY",
+    "contract": "token.nefty",
+    "status": "active",
+    "tags": [
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/neftyblocks"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/Bf789hjAsE"
+        },
+        {
+            "name": "medium",
+            "url": "https://neftyblocks.medium.com"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/nefty"
+        }
+    ]
+}

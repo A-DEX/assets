@@ -1,0 +1,31 @@
+{
+    "name": "WUFFI",
+    "website": "https://www.wuffi.io",
+    "description": "WUFFI, the next-gen meme coin crafted for gamers, is wagging its tail on the Solana & WAX Blockchains, eagerly sniffing out active wallets in the WUFFI ecosystem for a free, fur-tastic airdrop.",
+    "explorer": "https://wax.bloks.io/tokens/WUF-wax-wuffi",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "WUF",
+    "contract": "wuffi",
+    "status": "active",
+    "tags": [
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WUFFI_Inu"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/wuffi_token"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/Xtsde6p9m7"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/wuf"
+        }
+    ]
+}
