@@ -1,0 +1,26 @@
+{
+    "name": "WAXUSDC",
+    "website": "https://www.wax.io",
+    "description": "Wrapped USDC(Solana).",
+    "explorer": "https://wax.bloks.io/tokens/WAXUSDC-wax-eth.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "WAXUSDC",
+    "contract": "eth.token",
+    "status": "active",
+    "tags": [],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WAX_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://go.wax.io/Discord"
+        },
+        {
+            "name": "medium",
+            "url": "https://wax-io.medium.com"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "WAXUSDT",
+    "website": "https://www.wax.io",
+    "description": "Wrapped USDT(Ethereum).",
+    "explorer": "https://wax.bloks.io/tokens/WAXUSDT-wax-eth.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "WAXUSDT",
+    "contract": "eth.token",
+    "status": "active",
+    "tags": [],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WAX_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://go.wax.io/Discord"
+        },
+        {
+            "name": "medium",
+            "url": "https://wax-io.medium.com"
+        }
+    ]
+}
