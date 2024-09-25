@@ -1,0 +1,22 @@
+{
+    "name": "Alien Worlds (TLM)",
+    "website": "https://alienworlds.io/",
+    "description": "Alien Worlds (TLM) is a decentralized, non-fungible token (NFT) metaverse, where players compete for scarce resources, Trilium (TLM), in a stimulated economy centered around planetary worlds.",
+    "explorer": "https://wax.bloks.io/tokens/TLM-wax-alien.wolrds",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TLM",
+    "contract": "alien.worlds",
+    "status": "active",
+    "tags": [],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AlienWorlds"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/AlienWorldsOffical"
+        }
+    ]
+}
