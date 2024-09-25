@@ -1,0 +1,22 @@
+{
+    "name": "WOMBAT",
+    "website": "https://www.wombat.app/",
+    "description": "Wombat Web 3 Gaming Platform",
+    "explorer": "https://wax.bloks.io/tokens/WOMBAT-wax-wombattokens",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "WOMBAT",
+    "contract": "wombattokens",
+    "status": "active",
+    "tags": [],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/adoptwombat"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/wombatgamers"
+        }
+    ]
+}
