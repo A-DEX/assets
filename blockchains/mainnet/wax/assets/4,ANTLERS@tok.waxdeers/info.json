@@ -1,0 +1,22 @@
+{
+    "name": "WAX DEER JUNGLE CLUB",
+    "website": "https://waxdeer.com/",
+    "description": "WAX Deer Jungle Club introduces a revolutionary dimension to the PFP landscape, offering a suite of 10,000 NFTs, each embedded with a rich palette of 140 traits across 19 original characters, to enrich your digital experience.",
+    "explorer": "https://wax.bloks.io/tokens/ANTLERS-wax-tok.waxdeers",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ANTLERS",
+    "contract": "tok.waxdeers",
+    "status": "active",
+    "tags": [],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/waxdeer"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/bbkVTmfdAU"
+        }
+    ]
+}
