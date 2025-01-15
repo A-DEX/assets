@@ -1,0 +1,26 @@
+{
+    "name": "KING of Pixals, by Piga and the Pixel Journey",
+    "website": "https://pixeljourney.xyz",
+    "description": "Pixel Journey is an innovative new crypto-education focused project starting off from Wax.io, NFT-bridged to both Polygon and Ethereum, soon our goal is to explore all that the Web3 and crypto space has to offer. Together, we'll work towards Pixels binding together endless worlds in our shared metaverse.",
+    "explorer": "https://wax.bloks.io/tokens/KING-wax-alpha.waxfun",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "KING",
+    "contract": "alpha.waxfun",
+    "status": "active",
+    "tags": [],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/PxJourney"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pixel_journey"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/kQM6QGnGaH"
+        }
+    ]
+}
