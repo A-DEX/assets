@@ -1,7 +1,7 @@
 {
-    "name": "Pixel Journey",
-    "website": "https://pixeljourney.xyz",
-    "description": "Pixel Journey is an innovative new crypto-education focused project starting off from Wax.io, NFT-bridged to both Polygon and Ethereum, soon our goal is to explore all that the Web3 and crypto space has to offer. Together, we'll work towards Pixels binding together endless worlds in our shared metaverse.",
+    "name": "YEET",
+    "website": "https://yeet.quest",
+    "description": "YEET is for the people, by the people. Built on WAX for speed, security, and unstoppable YEETness. No dilution, no funny business. Just pure meme power.",
     "explorer": "https://wax.bloks.io/tokens/YEET-wax-token.yeet",
     "type": "",
     "precision": 8,
@@ -11,16 +11,12 @@
     "tags": [],
     "links": [
         {
-            "name": "twitter",
-            "url": "https://x.com/PxJourney"
-        },
-        {
             "name": "telegram",
-            "url": "https://t.me/pixel_journey/"
+            "url": "https://t.me/yeetwax"
         },
         {
             "name": "discord",
-            "url": "https://discord.gg/kQM6QGnGaH"
+            "url": "https://yeet.quest"
         }
     ]
 }
