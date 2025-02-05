@@ -1,0 +1,22 @@
+{
+    "name": "XPR",
+    "website": "https://eosnetwork.com",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XPR-proton-eosio.token",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XPR",
+    "contract": "eosio.token",
+    "status": "active",
+    "tags": [],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/XPRNetwork"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/G7E8qggYEQ"
+        },
+    ]
+}

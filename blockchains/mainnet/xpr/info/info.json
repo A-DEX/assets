@@ -1,0 +1,30 @@
+{
+    "name": "XPR Mainnet",
+    "website": "https://xprnetwork.org",
+    "description": "Blockchain For Everyone. Instant Transactions with Zero Gas Fees and On-Chain Identity Verification.",
+    "explorer": "https://explorer.xprnetwork.org",
+    "research": "https://research.binance.com/en/projects/xpr",
+    "precision": 4,
+    "symbol_code": "XPR",
+    "contract": "eosio.token",
+    "type": "coin",
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/XPRNetwork"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/XPRNetwork"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/G7E8qggYEQ"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://xprnetwork.org/whitepaper"
+        }
+    ]
+}
