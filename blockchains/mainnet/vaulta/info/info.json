@@ -1,0 +1,30 @@
+{
+    "name": "Vaulta Mainnet",
+    "website": "https://www.vaulta.com",
+    "description": "Vaulta is a Web3 Banking network empowering the next frontier of finance.",
+    "explorer": "https://xec.bloks.io",
+    "research": "https://research.binance.com/en/projects/vaulta",
+    "precision": 4,
+    "symbol_code": "A",
+    "contract": "core.vaulta",
+    "type": "coin",
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/VaultaFoundation"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/@Vaulta_"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/vaulta"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/eosio/documentation/blob/master/TechnicalWhitePaper.md"
+        }
+    ]
+}
