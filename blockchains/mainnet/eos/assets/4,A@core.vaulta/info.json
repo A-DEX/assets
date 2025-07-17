@@ -1,8 +1,8 @@
 {
     "name": "Vaulta",
-    "website": "https://eosnetwork.com",
+    "website": "https://www.vaulta.com",
     "description": "",
-    "explorer": "https://bloks.io/tokens/A-eos-core.vaulta",
+    "explorer": "https://xec.bloks.io/tokens/A-eos-core.vaulta",
     "type": "",
     "precision": 4,
     "symbol_code": "A",
@@ -12,12 +12,12 @@
     ],
     "links": [
         {
-            "name": "twitter",
-            "url": "https://twitter.com/AntelopeIO"
+            "name": "X",
+            "url": "https://x.com/@Vaulta_"
         },
         {
             "name": "telegram",
-            "url": "https://t.me/antelopeio"
+            "url": "https://t.me/vaulta"
         },
         {
             "name": "coingecko",
