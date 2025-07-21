@@ -1,0 +1,27 @@
+{
+    "name": "BOX",
+    "website": "https://defibox.io",
+    "description": "",
+    "explorer": "https://bloks.io/tokens/BOX-eos-token.defi",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "BOX",
+    "contract": "token.defi",
+    "status": "active",
+    "tags": [
+    ],
+    "links": [
+        {
+            "name": "X",
+            "url": "https://X.com/Defiboxofficial"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Defibox_official"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/defibox"
+        }
+    ]
+}

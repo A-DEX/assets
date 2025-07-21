@@ -1,0 +1,27 @@
+{
+    "name": "pTokens BTC (PBTC)",
+    "website": "https://p.network",
+    "description": "",
+    "explorer": "https://bloks.io/tokens/PBTC-eos-btc.ptokens",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "PBTC",
+    "contract": "btc.ptokens",
+    "status": "active",
+    "tags": [
+    ],
+    "links": [
+        {
+            "name": "X",
+            "url": "https://X.com/pNetworkDeFi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pNetworkDefi"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/ptokens-btc"
+        }
+    ]
+}
