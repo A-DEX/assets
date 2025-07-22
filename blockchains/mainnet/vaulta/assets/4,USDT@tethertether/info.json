@@ -2,7 +2,7 @@
     "name": "Tether USDT",
     "website": "https://tether.to",
     "description": "TrueUSD is the first independently-verified digital asset redeemable 1-for-1 for US Dollars.",
-    "explorer": "https://bloks.io/tokens/USDT-eos-tethertether",
+    "explorer": "https://xec.blocks.io/tokens/USDT-eos-tethertether",
     "type": "",
     "precision": 4,
     "symbol_code": "USDT",

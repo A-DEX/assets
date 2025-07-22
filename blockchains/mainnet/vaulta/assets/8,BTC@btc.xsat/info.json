@@ -1,0 +1,23 @@
+{
+    "name": "Exsat Network BTC",
+    "website": "https://exsat.network",
+    "description": "",
+    "explorer": "https://xec.blocks.io/tokens/BTC-eos-btc.xsat",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "BTC",
+    "contract": "btc.xsat",
+    "status": "active",
+    "tags": [
+    ],
+    "links": [
+        {
+            "name": "X",
+            "url": "https://x.com/exsatnetwork"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ExSatNetwork"
+        }
+    ]
+}
