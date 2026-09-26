@@ -1,0 +1,13 @@
+{
+    "name": "DAI",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/DAI-eos-etherctokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "DAI",
+    "contract": "etherctokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

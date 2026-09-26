@@ -1,0 +1,13 @@
+{
+    "name": "WEBX",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/WEBX-eos-webxtokenacc",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "WEBX",
+    "contract": "webxtokenacc",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

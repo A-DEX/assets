@@ -1,0 +1,13 @@
+{
+    "name": "Chain Runner Shard",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/SHARD-proton-chainrunshd",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SHARD",
+    "contract": "chainrunshd",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

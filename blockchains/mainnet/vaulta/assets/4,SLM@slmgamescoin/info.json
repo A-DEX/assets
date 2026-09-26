@@ -1,0 +1,13 @@
+{
+    "name": "SLM.Games token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SLM-eos-slmgamescoin",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SLM",
+    "contract": "slmgamescoin",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

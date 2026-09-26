@@ -1,0 +1,13 @@
+{
+    "name": "XRPLT",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XRPLT-proton-xrpledgerpro",
+    "type": "",
+    "precision": 3,
+    "symbol_code": "XRPLT",
+    "contract": "xrpledgerpro",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

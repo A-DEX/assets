@@ -1,0 +1,13 @@
+{
+    "name": "USDC TEST TOKEN",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/USDTEST-proton-tokencreate",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "USDTEST",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "AMZCoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/AMZ-eos-amzcoinvault",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "AMZ",
+    "contract": "amzcoinvault",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

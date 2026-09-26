@@ -1,0 +1,20 @@
+{
+    "name": "SungFlip",
+    "website": "https://simpledex.fun/token/467",
+    "description": "SUNGFLIP: Decentralized Audio-Visual Ecosystem\nSUNGFLIP is a next-generation, decentralized ecosystem built at the intersection of blockchain architecture and cutting-edge ai music production. Designed to empower creators,the platform bridges defi to music",
+    "explorer": "https://explorer.xprnetwork.org/tokens/SUNGF-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SUNGF",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [
+        "simpledex"
+    ],
+    "links": [
+        {
+            "name": "simpledex",
+            "url": "https://simpledex.fun/token/467"
+        }
+    ]
+}

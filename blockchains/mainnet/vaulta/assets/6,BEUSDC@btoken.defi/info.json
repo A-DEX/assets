@@ -1,0 +1,13 @@
+{
+    "name": "EUSDC Defibox Lending",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BEUSDC-eos-btoken.defi",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "BEUSDC",
+    "contract": "btoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

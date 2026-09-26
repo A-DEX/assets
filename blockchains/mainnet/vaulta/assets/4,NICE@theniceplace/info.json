@@ -1,0 +1,13 @@
+{
+    "name": "NiceCoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/NICE-eos-theniceplace",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "NICE",
+    "contract": "theniceplace",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

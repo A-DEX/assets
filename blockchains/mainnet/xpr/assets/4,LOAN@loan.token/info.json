@@ -1,0 +1,13 @@
+{
+    "name": "LOAN Protocol",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/LOAN-proton-loan.token",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "LOAN",
+    "contract": "loan.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

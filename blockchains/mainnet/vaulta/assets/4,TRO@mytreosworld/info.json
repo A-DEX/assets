@@ -1,0 +1,13 @@
+{
+    "name": "TREOS Origin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/TRO-eos-mytreosworld",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TRO",
+    "contract": "mytreosworld",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

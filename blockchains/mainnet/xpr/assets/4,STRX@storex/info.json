@@ -1,0 +1,13 @@
+{
+    "name": "Storex",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/STRX-proton-storex",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "STRX",
+    "contract": "storex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

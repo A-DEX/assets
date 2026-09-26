@@ -1,0 +1,13 @@
+{
+    "name": "PRDOGE",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/PRDOGE-proton-vtoken",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "PRDOGE",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "EOSB",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/EOSB-eos-eosceostoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "EOSB",
+    "contract": "eosceostoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

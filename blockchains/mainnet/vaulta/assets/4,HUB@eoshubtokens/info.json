@@ -1,0 +1,13 @@
+{
+    "name": "eHUB",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/HUB-eos-eoshubtokens",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "HUB",
+    "contract": "eoshubtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

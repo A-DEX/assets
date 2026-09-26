@@ -1,0 +1,13 @@
+{
+    "name": "XDC Network",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XDC-proton-xtokens",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XDC",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

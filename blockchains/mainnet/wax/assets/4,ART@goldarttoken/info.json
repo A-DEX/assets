@@ -1,0 +1,13 @@
+{
+    "name": "Gold ART Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/ART-wax-goldarttoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ART",
+    "contract": "goldarttoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

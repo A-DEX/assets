@@ -1,0 +1,13 @@
+{
+    "name": "pTokens LINK",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PLINK-eos-link.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PLINK",
+    "contract": "link.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

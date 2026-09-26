@@ -1,0 +1,20 @@
+{
+    "name": "Gondor",
+    "website": "https://simpledex.fun/token/464",
+    "description": "To Gondor, last grand City of the West, and to the King returned this coin honors Minas Tirith and Elendil’s line. May the White Tree fly among holders in loyalty, laughter, and memory that the West shall not fade.\n\n",
+    "explorer": "https://explorer.xprnetwork.org/tokens/GONDOR-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "GONDOR",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [
+        "simpledex"
+    ],
+    "links": [
+        {
+            "name": "simpledex",
+            "url": "https://simpledex.fun/token/464"
+        }
+    ]
+}

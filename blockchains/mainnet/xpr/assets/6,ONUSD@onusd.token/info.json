@@ -1,0 +1,13 @@
+{
+    "name": "ONUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ONUSD-proton-onusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "ONUSD",
+    "contract": "onusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

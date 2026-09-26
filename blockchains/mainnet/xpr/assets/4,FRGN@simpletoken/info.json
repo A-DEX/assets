@@ -1,0 +1,13 @@
+{
+    "name": "10XFOREIGN",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/FRGN-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "FRGN",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

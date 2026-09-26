@@ -1,0 +1,13 @@
+{
+    "name": "Bitcoin SV",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BSV-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BSV",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

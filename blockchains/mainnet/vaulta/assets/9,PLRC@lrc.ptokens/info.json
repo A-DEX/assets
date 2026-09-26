@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork LRC",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PLRC-eos-lrc.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PLRC",
+    "contract": "lrc.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

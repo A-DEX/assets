@@ -1,0 +1,13 @@
+{
+    "name": "Green Light Planet",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/GL-eos-token.gl",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "GL",
+    "contract": "token.gl",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

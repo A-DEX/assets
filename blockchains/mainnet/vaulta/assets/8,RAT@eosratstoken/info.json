@@ -1,0 +1,13 @@
+{
+    "name": "RAT",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/RAT-eos-eosratstoken",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "RAT",
+    "contract": "eosratstoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

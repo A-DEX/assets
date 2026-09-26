@@ -1,0 +1,13 @@
+{
+    "name": "Newdex TMH",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/TMH-eos-issue.newdex",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "TMH",
+    "contract": "issue.newdex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

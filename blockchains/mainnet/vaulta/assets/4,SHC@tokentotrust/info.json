@@ -1,0 +1,13 @@
+{
+    "name": "SpoonHeads Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SHC-eos-tokentotrust",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SHC",
+    "contract": "tokentotrust",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

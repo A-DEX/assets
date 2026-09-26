@@ -1,0 +1,13 @@
+{
+    "name": "Nice1",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/NICEONE-eos-niceonetoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "NICEONE",
+    "contract": "niceonetoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

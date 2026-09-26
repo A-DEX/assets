@@ -1,0 +1,13 @@
+{
+    "name": "GOLD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/NGE-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "NGE",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

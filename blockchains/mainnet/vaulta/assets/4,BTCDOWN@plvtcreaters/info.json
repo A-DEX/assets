@@ -1,0 +1,13 @@
+{
+    "name": "pizza.live BTCDOWN",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BTCDOWN-eos-plvtcreaters",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BTCDOWN",
+    "contract": "plvtcreaters",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

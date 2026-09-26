@@ -1,0 +1,13 @@
+{
+    "name": "PIZZA Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/PIZZA-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PIZZA",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

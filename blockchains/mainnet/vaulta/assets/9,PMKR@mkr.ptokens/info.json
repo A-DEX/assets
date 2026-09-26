@@ -1,0 +1,13 @@
+{
+    "name": "pTokens MKR",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PMKR-eos-mkr.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PMKR",
+    "contract": "mkr.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

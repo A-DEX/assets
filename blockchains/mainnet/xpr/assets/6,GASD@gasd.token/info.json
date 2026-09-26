@@ -1,0 +1,13 @@
+{
+    "name": "GASD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/GASD-proton-gasd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "GASD",
+    "contract": "gasd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

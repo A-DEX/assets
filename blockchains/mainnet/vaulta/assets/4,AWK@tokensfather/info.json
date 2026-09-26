@@ -1,0 +1,13 @@
+{
+    "name": "Aethercoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/AWK-eos-tokensfather",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "AWK",
+    "contract": "tokensfather",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

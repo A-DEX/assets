@@ -1,0 +1,13 @@
+{
+    "name": "KRYPTO",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/KRYPTO-proton-vtoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "KRYPTO",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

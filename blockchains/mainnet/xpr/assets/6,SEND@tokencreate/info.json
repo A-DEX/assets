@@ -1,0 +1,13 @@
+{
+    "name": "send",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/SEND-proton-tokencreate",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "SEND",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

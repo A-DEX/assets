@@ -1,0 +1,13 @@
+{
+    "name": "XCOIN",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XCOIN-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "XCOIN",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

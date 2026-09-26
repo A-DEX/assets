@@ -1,0 +1,13 @@
+{
+    "name": "The Hemp Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/THC-proton-tokencreate",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "THC",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

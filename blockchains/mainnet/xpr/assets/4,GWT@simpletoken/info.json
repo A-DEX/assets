@@ -1,0 +1,13 @@
+{
+    "name": "Gay Wizard Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/GWT-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "GWT",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "eXPRess coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/EXPRESS-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "EXPRESS",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

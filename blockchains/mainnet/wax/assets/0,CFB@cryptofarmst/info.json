@@ -1,0 +1,13 @@
+{
+    "name": "CryptoFarms Bitcoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/CFB-wax-cryptofarmst",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "CFB",
+    "contract": "cryptofarmst",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "SX USDT/EOSDT LP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SXC-eos-lptoken.sx",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "SXC",
+    "contract": "lptoken.sx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

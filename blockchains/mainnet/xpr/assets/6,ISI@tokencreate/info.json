@@ -1,0 +1,13 @@
+{
+    "name": "ISICOIN",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ISI-proton-tokencreate",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "ISI",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

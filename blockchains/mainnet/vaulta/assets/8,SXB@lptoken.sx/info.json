@@ -1,0 +1,13 @@
+{
+    "name": "SX USDT/OUSD LP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SXB-eos-lptoken.sx",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "SXB",
+    "contract": "lptoken.sx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

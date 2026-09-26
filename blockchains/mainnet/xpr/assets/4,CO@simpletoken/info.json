@@ -1,0 +1,13 @@
+{
+    "name": "Colorado Dollar",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/CO-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "CO",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

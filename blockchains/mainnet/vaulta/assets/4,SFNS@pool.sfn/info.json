@@ -1,0 +1,13 @@
+{
+    "name": "SFNs inscriptions",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SFNS-eos-pool.sfn",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SFNS",
+    "contract": "pool.sfn",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

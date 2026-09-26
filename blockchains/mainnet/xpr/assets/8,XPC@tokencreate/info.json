@@ -1,0 +1,13 @@
+{
+    "name": "Proton Classic",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XPC-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "XPC",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

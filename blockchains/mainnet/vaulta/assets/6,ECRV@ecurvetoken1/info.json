@@ -1,0 +1,13 @@
+{
+    "name": "eCurve",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/ECRV-eos-ecurvetoken1",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "ECRV",
+    "contract": "ecurvetoken1",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

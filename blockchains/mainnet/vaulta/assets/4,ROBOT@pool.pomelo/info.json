@@ -1,0 +1,13 @@
+{
+    "name": "Pomelo NFT Pool",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/ROBOT-eos-pool.pomelo",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ROBOT",
+    "contract": "pool.pomelo",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

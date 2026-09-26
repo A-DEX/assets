@@ -1,0 +1,13 @@
+{
+    "name": "OTRX",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/OTRX-eos-core.ogx",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "OTRX",
+    "contract": "core.ogx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

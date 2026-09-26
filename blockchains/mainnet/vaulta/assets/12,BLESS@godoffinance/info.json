@@ -1,0 +1,13 @@
+{
+    "name": "God.finance",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BLESS-eos-godoffinance",
+    "type": "",
+    "precision": 12,
+    "symbol_code": "BLESS",
+    "contract": "godoffinance",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Lumeos",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/LUME-eos-lumetokenctr",
+    "type": "",
+    "precision": 3,
+    "symbol_code": "LUME",
+    "contract": "lumetokenctr",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

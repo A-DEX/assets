@@ -1,0 +1,13 @@
+{
+    "name": "MARF",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/MARF-eos-themarftoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "MARF",
+    "contract": "themarftoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

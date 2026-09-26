@@ -1,0 +1,13 @@
+{
+    "name": "Ecoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/ECOIN-eos-ecointoken12",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ECOIN",
+    "contract": "ecointoken12",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

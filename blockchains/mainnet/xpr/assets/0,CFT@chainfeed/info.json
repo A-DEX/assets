@@ -1,0 +1,13 @@
+{
+    "name": "Chainfeed",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/CFT-proton-chainfeed",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "CFT",
+    "contract": "chainfeed",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

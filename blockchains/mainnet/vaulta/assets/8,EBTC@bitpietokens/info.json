@@ -1,0 +1,13 @@
+{
+    "name": "EBTC",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/EBTC-eos-bitpietokens",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "EBTC",
+    "contract": "bitpietokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

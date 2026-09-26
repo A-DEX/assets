@@ -1,0 +1,13 @@
+{
+    "name": "EOSDT",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/EOSDT-eos-eosdtsttoken",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "EOSDT",
+    "contract": "eosdtsttoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ALTUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ALTUSD-proton-altusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "ALTUSD",
+    "contract": "altusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

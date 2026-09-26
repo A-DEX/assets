@@ -1,0 +1,13 @@
+{
+    "name": "DEXIDX Index",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/DEXIDX-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "DEXIDX",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

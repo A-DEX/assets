@@ -1,0 +1,13 @@
+{
+    "name": "Ping",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PING-eos-d.pool.gems",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PING",
+    "contract": "d.pool.gems",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

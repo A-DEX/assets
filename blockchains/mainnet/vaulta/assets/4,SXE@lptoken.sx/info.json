@@ -1,0 +1,13 @@
+{
+    "name": "SX USDT/VIGOR LP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SXE-eos-lptoken.sx",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SXE",
+    "contract": "lptoken.sx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

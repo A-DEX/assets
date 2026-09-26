@@ -1,0 +1,13 @@
+{
+    "name": "Royale Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/RC-proton-coinroyale25",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "RC",
+    "contract": "coinroyale25",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

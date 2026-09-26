@@ -1,0 +1,13 @@
+{
+    "name": "Fufleos Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/FUFLEOS-eos-alcorammswap",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "FUFLEOS",
+    "contract": "alcorammswap",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

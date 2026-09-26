@@ -1,0 +1,13 @@
+{
+    "name": "Blackberry",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BBRY-eos-pcashberries",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "BBRY",
+    "contract": "pcashberries",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

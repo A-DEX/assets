@@ -1,0 +1,13 @@
+{
+    "name": "BTCP on EOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BTCP-eos-steemenginex",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "BTCP",
+    "contract": "steemenginex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

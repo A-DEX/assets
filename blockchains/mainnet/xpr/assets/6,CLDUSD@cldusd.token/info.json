@@ -1,0 +1,13 @@
+{
+    "name": "CLDUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/CLDUSD-proton-cldusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "CLDUSD",
+    "contract": "cldusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

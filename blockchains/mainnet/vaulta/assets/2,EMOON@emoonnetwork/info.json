@@ -1,0 +1,13 @@
+{
+    "name": "EMOON",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/EMOON-eos-emoonnetwork",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "EMOON",
+    "contract": "emoonnetwork",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

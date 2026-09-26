@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork ANT",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PANT-eos-ant.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PANT",
+    "contract": "ant.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

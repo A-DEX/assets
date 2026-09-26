@@ -1,0 +1,13 @@
+{
+    "name": "XRPLT",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XRPLT-proton-tokencreate",
+    "type": "",
+    "precision": 1,
+    "symbol_code": "XRPLT",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

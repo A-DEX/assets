@@ -1,0 +1,13 @@
+{
+    "name": "ADVKT Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/ADVKT-eos-dildocoinllc",
+    "type": "",
+    "precision": 3,
+    "symbol_code": "ADVKT",
+    "contract": "dildocoinllc",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

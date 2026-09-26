@@ -1,0 +1,13 @@
+{
+    "name": "US Debt Clock Guy",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/DEBTGUY-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "DEBTGUY",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

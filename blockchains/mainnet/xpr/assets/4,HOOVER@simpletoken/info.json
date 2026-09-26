@@ -1,0 +1,13 @@
+{
+    "name": "Hoover Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/HOOVER-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "HOOVER",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

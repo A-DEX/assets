@@ -1,0 +1,13 @@
+{
+    "name": "Chaince",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/CET-eos-eosiochaince",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "CET",
+    "contract": "eosiochaince",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

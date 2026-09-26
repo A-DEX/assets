@@ -1,0 +1,13 @@
+{
+    "name": "GESAD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/GESAD-proton-gesad.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "GESAD",
+    "contract": "gesad.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

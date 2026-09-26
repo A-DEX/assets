@@ -1,0 +1,13 @@
+{
+    "name": "Tezcoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/TEZCOIN-wax-tokenoftezca",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TEZCOIN",
+    "contract": "tokenoftezca",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

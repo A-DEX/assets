@@ -1,0 +1,13 @@
+{
+    "name": "pixEOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PIXEOS-eos-pixeos1token",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PIXEOS",
+    "contract": "pixeos1token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

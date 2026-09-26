@@ -1,0 +1,13 @@
+{
+    "name": "Chainlink",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XLINK-proton-xtokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "XLINK",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

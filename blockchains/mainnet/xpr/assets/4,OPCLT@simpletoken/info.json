@@ -1,0 +1,13 @@
+{
+    "name": "OPENCLAW TOKEN",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/OPCLT-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "OPCLT",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

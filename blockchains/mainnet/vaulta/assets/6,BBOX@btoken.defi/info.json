@@ -1,0 +1,13 @@
+{
+    "name": "BOX Defibox Lending",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BBOX-eos-btoken.defi",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "BBOX",
+    "contract": "btoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

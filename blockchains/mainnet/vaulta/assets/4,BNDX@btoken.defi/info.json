@@ -1,0 +1,13 @@
+{
+    "name": "NDX Defibox Lending",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BNDX-eos-btoken.defi",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BNDX",
+    "contract": "btoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "BNG",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BNG-eos-bitnetworker",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "BNG",
+    "contract": "bitnetworker",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

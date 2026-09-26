@@ -1,0 +1,13 @@
+{
+    "name": "US Debt Clock Meme",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/USDCM-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "USDCM",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

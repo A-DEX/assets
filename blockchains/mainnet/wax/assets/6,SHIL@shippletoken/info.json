@@ -1,0 +1,13 @@
+{
+    "name": "Shipple",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/SHIL-wax-shippletoken",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "SHIL",
+    "contract": "shippletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

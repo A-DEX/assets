@@ -1,0 +1,13 @@
+{
+    "name": "TLENS Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/TLENS-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "TLENS",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

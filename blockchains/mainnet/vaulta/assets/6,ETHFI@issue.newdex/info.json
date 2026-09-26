@@ -1,0 +1,13 @@
+{
+    "name": "Newdex ETHFI",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/ETHFI-eos-issue.newdex",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "ETHFI",
+    "contract": "issue.newdex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

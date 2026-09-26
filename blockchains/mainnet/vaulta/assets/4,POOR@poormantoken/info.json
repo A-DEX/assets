@@ -1,0 +1,13 @@
+{
+    "name": "Poorman Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/POOR-eos-poormantoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "POOR",
+    "contract": "poormantoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

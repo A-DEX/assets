@@ -1,0 +1,13 @@
+{
+    "name": "Crypto Crickets",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/CRICKET-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "CRICKET",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

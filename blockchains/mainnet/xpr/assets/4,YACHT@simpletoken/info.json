@@ -1,0 +1,13 @@
+{
+    "name": "Yacht Club Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/YACHT-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "YACHT",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

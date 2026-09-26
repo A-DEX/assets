@@ -1,0 +1,13 @@
+{
+    "name": "Starteos Pool",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/POOL-eos-stpool.eos",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "POOL",
+    "contract": "stpool.eos",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

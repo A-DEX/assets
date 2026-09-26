@@ -1,0 +1,13 @@
+{
+    "name": "NUT",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/NUT-eos-eosdtnutoken",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "NUT",
+    "contract": "eosdtnutoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

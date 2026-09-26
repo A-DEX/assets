@@ -1,0 +1,13 @@
+{
+    "name": "Pay Me",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/PAY-proton-tokencreate",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "PAY",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

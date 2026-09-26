@@ -1,0 +1,13 @@
+{
+    "name": "Dtoken ETH",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/ETH-eos-asset.dtoken",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "ETH",
+    "contract": "asset.dtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

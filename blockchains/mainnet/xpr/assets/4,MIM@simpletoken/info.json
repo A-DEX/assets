@@ -1,0 +1,13 @@
+{
+    "name": "Magic Internet Money",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/MIM-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "MIM",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

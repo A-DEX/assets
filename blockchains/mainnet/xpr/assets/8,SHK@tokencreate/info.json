@@ -1,0 +1,13 @@
+{
+    "name": "Shamecoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/SHK-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "SHK",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

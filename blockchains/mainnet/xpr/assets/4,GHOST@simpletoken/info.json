@@ -1,0 +1,13 @@
+{
+    "name": "Ghost Protocol",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/GHOST-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "GHOST",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

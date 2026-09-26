@@ -1,0 +1,13 @@
+{
+    "name": "EETH",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/EETH-eos-bitpietokens",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "EETH",
+    "contract": "bitpietokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "TerraUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XUST-proton-xtokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "XUST",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

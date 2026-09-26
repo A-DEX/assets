@@ -1,0 +1,13 @@
+{
+    "name": "The EOS Button",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BTN-eos-eosbuttonbtn",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BTN",
+    "contract": "eosbuttonbtn",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "POW",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/POW-eos-powhcontract",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "POW",
+    "contract": "powhcontract",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

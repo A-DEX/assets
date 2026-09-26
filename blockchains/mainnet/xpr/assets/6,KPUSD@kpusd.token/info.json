@@ -1,0 +1,13 @@
+{
+    "name": "KPUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/KPUSD-proton-kpusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "KPUSD",
+    "contract": "kpusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

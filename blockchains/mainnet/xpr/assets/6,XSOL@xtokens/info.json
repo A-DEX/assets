@@ -1,0 +1,13 @@
+{
+    "name": "Solana",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XSOL-proton-xtokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "XSOL",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

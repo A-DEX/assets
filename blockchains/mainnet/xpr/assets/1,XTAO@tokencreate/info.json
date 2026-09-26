@@ -1,0 +1,13 @@
+{
+    "name": "Bittensor",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XTAO-proton-tokencreate",
+    "type": "",
+    "precision": 1,
+    "symbol_code": "XTAO",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Dig Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/DIG-eos-digcoinsmine",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "DIG",
+    "contract": "digcoinsmine",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

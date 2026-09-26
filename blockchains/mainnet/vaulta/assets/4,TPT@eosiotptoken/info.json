@@ -1,0 +1,13 @@
+{
+    "name": "TokenPocket",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/TPT-eos-eosiotptoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TPT",
+    "contract": "eosiotptoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

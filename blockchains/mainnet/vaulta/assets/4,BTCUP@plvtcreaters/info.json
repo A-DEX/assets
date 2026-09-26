@@ -1,0 +1,13 @@
+{
+    "name": "pizza.live BTCUP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BTCUP-eos-plvtcreaters",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BTCUP",
+    "contract": "plvtcreaters",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

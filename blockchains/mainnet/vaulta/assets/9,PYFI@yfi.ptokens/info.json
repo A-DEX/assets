@@ -1,0 +1,13 @@
+{
+    "name": "pTokens YFI",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PYFI-eos-yfi.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PYFI",
+    "contract": "yfi.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

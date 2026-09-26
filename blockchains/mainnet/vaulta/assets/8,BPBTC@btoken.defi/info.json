@@ -1,0 +1,13 @@
+{
+    "name": "PBTC Defibox Lending",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BPBTC-eos-btoken.defi",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "BPBTC",
+    "contract": "btoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

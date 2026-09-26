@@ -1,0 +1,13 @@
+{
+    "name": "Popstar Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/POPSTAR-proton-tokencreate",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "POPSTAR",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

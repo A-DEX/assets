@@ -1,0 +1,13 @@
+{
+    "name": "dmail",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/MAIL-eos-d.mail",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "MAIL",
+    "contract": "d.mail",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork COMP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PCOMP-eos-comp.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PCOMP",
+    "contract": "comp.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "San Diego City Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SAND-eos-sandiegocoin",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "SAND",
+    "contract": "sandiegocoin",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Rocket Battles",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/ROCKET-eos-rocketbattle",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ROCKET",
+    "contract": "rocketbattle",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

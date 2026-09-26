@@ -1,0 +1,13 @@
+{
+    "name": "SX USDT Vault",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SXUSDT-eos-token.sx",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SXUSDT",
+    "contract": "token.sx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

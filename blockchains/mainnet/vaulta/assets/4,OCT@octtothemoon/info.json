@@ -1,0 +1,13 @@
+{
+    "name": "Oracle Chain",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/OCT-eos-octtothemoon",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "OCT",
+    "contract": "octtothemoon",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

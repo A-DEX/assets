@@ -1,0 +1,13 @@
+{
+    "name": "Polkadot",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XDOT-proton-xtokens",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "XDOT",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

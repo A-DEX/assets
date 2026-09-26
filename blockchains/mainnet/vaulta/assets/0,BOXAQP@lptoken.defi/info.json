@@ -1,0 +1,13 @@
+{
+    "name": "USDT/EUSDC Defibox LP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BOXAQP-eos-lptoken.defi",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "BOXAQP",
+    "contract": "lptoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "CWUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/CWUSD-proton-cwusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "CWUSD",
+    "contract": "cwusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

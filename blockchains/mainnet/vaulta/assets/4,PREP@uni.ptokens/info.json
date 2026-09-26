@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork REP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PREP-eos-uni.ptokens",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PREP",
+    "contract": "uni.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

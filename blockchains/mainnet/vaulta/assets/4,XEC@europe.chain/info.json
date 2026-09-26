@@ -1,0 +1,13 @@
+{
+    "name": "Europechain",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/XEC-eos-europe.chain",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XEC",
+    "contract": "europe.chain",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

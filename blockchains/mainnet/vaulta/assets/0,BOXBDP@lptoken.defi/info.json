@@ -1,0 +1,13 @@
+{
+    "name": "EBOX/EUSDC Defibox LP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BOXBDP-eos-lptoken.defi",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "BOXBDP",
+    "contract": "lptoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "SX CPU",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SXCPU-eos-push.sx",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SXCPU",
+    "contract": "push.sx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

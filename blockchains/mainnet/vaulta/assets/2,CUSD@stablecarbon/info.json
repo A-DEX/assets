@@ -1,0 +1,13 @@
+{
+    "name": "Carbon",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/CUSD-eos-stablecarbon",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "CUSD",
+    "contract": "stablecarbon",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

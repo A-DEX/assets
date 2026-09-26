@@ -1,0 +1,13 @@
+{
+    "name": "boob coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BOOB-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BOOB",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "TWUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/TWUSD-proton-twusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "TWUSD",
+    "contract": "twusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

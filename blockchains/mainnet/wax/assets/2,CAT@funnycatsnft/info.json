@@ -1,0 +1,13 @@
+{
+    "name": "Catcoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/CAT-wax-funnycatsnft",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "CAT",
+    "contract": "funnycatsnft",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

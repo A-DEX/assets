@@ -1,0 +1,13 @@
+{
+    "name": "MyCryptoVegas Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/CTS-eos-cryptovgscts",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "CTS",
+    "contract": "cryptovgscts",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

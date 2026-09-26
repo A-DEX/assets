@@ -1,0 +1,13 @@
+{
+    "name": "Newdex",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/DEX-eos-token.newdex",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "DEX",
+    "contract": "token.newdex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

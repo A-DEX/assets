@@ -1,0 +1,13 @@
+{
+    "name": "WebArk Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/WEBARK-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "WEBARK",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

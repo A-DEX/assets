@@ -1,0 +1,13 @@
+{
+    "name": "USDT Defibox Lending",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BUSDT-eos-btoken.defi",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BUSDT",
+    "contract": "btoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -6,7 +6,7 @@
     "type": "",
     "precision": 9,
     "symbol_code": "PETH",
-    "contract": "btc.ptokens",
+    "contract": "eth.ptokens",
     "status": "active",
     "tags": [
     ],

@@ -1,0 +1,20 @@
+{
+    "name": "TestIAN",
+    "website": "https://simpledex.fun/token/463",
+    "description": "Ai agent test",
+    "explorer": "https://explorer.xprnetwork.org/tokens/IAN-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "IAN",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [
+        "simpledex"
+    ],
+    "links": [
+        {
+            "name": "simpledex",
+            "url": "https://simpledex.fun/token/463"
+        }
+    ]
+}

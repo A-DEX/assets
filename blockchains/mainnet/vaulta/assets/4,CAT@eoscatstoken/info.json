@@ -1,0 +1,13 @@
+{
+    "name": "CAT Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/CAT-eos-eoscatstoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "CAT",
+    "contract": "eoscatstoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Floopy Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/FDD-proton-tokencreate",
+    "type": "",
+    "precision": 3,
+    "symbol_code": "FDD",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

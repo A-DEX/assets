@@ -1,0 +1,13 @@
+{
+    "name": "XAKUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XAKUSD-proton-vtoken",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "XAKUSD",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

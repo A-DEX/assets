@@ -1,0 +1,13 @@
+{
+    "name": "TRC",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/TRC-wax-trgametokens",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TRC",
+    "contract": "trgametokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

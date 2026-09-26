@@ -1,0 +1,13 @@
+{
+    "name": "Quickeycoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/QKEY-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "QKEY",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

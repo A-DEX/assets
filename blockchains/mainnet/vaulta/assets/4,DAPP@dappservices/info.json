@@ -1,0 +1,13 @@
+{
+    "name": "DAPP Network",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/DAPP-eos-dappservices",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "DAPP",
+    "contract": "dappservices",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

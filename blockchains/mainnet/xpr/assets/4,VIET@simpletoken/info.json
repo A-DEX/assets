@@ -1,0 +1,13 @@
+{
+    "name": "Vietnam Agent",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/VIET-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "VIET",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

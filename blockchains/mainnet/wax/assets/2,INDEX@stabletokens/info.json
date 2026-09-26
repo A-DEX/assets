@@ -1,0 +1,13 @@
+{
+    "name": "INDEX token",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/INDEX-wax-stabletokens",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "INDEX",
+    "contract": "stabletokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

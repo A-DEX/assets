@@ -1,0 +1,13 @@
+{
+    "name": "OBTC",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/OBTC-eos-core.ogx",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "OBTC",
+    "contract": "core.ogx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

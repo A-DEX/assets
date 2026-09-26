@@ -1,0 +1,13 @@
+{
+    "name": "OETH",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/OETH-eos-core.ogx",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "OETH",
+    "contract": "core.ogx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

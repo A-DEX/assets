@@ -1,0 +1,13 @@
+{
+    "name": "Dogecoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XDOGE-proton-xtokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "XDOGE",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

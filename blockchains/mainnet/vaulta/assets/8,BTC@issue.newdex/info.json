@@ -1,0 +1,13 @@
+{
+    "name": "Newdex BTC",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BTC-eos-issue.newdex",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "BTC",
+    "contract": "issue.newdex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

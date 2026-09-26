@@ -1,0 +1,13 @@
+{
+    "name": "MoneroV",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XMV-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "XMV",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

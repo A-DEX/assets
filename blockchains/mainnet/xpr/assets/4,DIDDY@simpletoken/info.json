@@ -1,0 +1,13 @@
+{
+    "name": "DIDDY COIN",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/DIDDY-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "DIDDY",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

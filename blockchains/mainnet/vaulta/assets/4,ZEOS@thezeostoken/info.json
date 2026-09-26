@@ -1,0 +1,13 @@
+{
+    "name": "ZEOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/ZEOS-eos-thezeostoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ZEOS",
+    "contract": "thezeostoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

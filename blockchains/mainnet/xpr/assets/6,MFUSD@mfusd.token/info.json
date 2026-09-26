@@ -1,0 +1,13 @@
+{
+    "name": "MFUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/MFUSD-proton-mfusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "MFUSD",
+    "contract": "mfusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

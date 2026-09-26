@@ -1,0 +1,13 @@
+{
+    "name": "Arkovian Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/ARK-wax-arkoviatoken",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "ARK",
+    "contract": "arkoviatoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

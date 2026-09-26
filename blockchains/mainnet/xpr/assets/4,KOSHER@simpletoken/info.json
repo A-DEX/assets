@@ -1,0 +1,13 @@
+{
+    "name": "KOSHER COIN",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/KOSHER-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "KOSHER",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

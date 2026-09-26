@@ -1,0 +1,13 @@
+{
+    "name": "IFT",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/IFT-eos-token.ift",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "IFT",
+    "contract": "token.ift",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Desert Financial USD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/DFUSD-proton-dfusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "DFUSD",
+    "contract": "dfusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

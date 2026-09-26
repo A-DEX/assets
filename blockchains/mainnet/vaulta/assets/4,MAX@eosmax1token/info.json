@@ -1,0 +1,13 @@
+{
+    "name": "MAX",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/MAX-eos-eosmax1token",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "MAX",
+    "contract": "eosmax1token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "CBIT Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/CBIT-wax-farmingtoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "CBIT",
+    "contract": "farmingtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

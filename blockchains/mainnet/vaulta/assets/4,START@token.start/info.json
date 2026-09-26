@@ -1,0 +1,13 @@
+{
+    "name": "T-Starter START",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/START-eos-token.start",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "START",
+    "contract": "token.start",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

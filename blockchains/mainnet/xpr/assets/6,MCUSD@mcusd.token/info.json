@@ -1,0 +1,13 @@
+{
+    "name": "MCUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/MCUSD-proton-mcusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "MCUSD",
+    "contract": "mcusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

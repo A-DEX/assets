@@ -1,0 +1,13 @@
+{
+    "name": "NFTV",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/NFTV-wax-token.nftg",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "NFTV",
+    "contract": "token.nftg",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

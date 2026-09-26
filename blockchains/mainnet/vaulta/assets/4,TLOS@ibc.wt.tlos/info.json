@@ -1,0 +1,13 @@
+{
+    "name": "Telos",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/TLOS-eos-ibc.wt.tlos",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TLOS",
+    "contract": "ibc.wt.tlos",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

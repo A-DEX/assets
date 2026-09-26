@@ -1,0 +1,13 @@
+{
+    "name": "MAWA coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/MAGA-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "MAGA",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

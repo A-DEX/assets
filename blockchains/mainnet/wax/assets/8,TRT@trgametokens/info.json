@@ -1,0 +1,13 @@
+{
+    "name": "TRT",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/TRT-wax-trgametokens",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "TRT",
+    "contract": "trgametokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Tron",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XTRX-proton-xtokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "XTRX",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

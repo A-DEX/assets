@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork OMG",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/POMG-eos-omg.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "POMG",
+    "contract": "omg.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

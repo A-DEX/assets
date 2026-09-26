@@ -1,0 +1,13 @@
+{
+    "name": "YAS Network",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/YAS-eos-yastokencode",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "YAS",
+    "contract": "yastokencode",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

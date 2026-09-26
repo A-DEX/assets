@@ -1,0 +1,13 @@
+{
+    "name": "FGL Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/FGL-wax-fgltokenmgmt",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "FGL",
+    "contract": "fgltokenmgmt",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

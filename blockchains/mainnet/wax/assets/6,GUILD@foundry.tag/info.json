@@ -1,0 +1,13 @@
+{
+    "name": "Guilders",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/GUILD-wax-foundry.tag",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "GUILD",
+    "contract": "foundry.tag",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

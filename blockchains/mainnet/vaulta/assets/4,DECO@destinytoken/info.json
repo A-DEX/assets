@@ -1,0 +1,13 @@
+{
+    "name": "Destiny Coin EOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/DECO-eos-destinytoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "DECO",
+    "contract": "destinytoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork DAI",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PDAI-eos-dai.ptokens",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PDAI",
+    "contract": "dai.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

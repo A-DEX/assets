@@ -1,0 +1,13 @@
+{
+    "name": "FISH Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/FISH-eos-fisheostoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "FISH",
+    "contract": "fisheostoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

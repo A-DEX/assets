@@ -1,0 +1,13 @@
+{
+    "name": "XAKUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/GMUSD-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "GMUSD",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Test",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/TEST-proton-tokencreate",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TEST",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

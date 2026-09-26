@@ -1,0 +1,13 @@
+{
+    "name": "OUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/OUSD-eos-core.ogx",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "OUSD",
+    "contract": "core.ogx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

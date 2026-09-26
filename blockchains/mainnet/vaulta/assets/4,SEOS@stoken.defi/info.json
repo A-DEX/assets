@@ -1,0 +1,13 @@
+{
+    "name": "Defibox Vault",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SEOS-eos-stoken.defi",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SEOS",
+    "contract": "stoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

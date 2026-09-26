@@ -1,0 +1,13 @@
+{
+    "name": "Gratitude Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/GRAT-proton-grat",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "GRAT",
+    "contract": "grat",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

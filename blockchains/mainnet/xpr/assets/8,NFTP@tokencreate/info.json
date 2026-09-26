@@ -1,0 +1,13 @@
+{
+    "name": "NFTp Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/NFTP-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "NFTP",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

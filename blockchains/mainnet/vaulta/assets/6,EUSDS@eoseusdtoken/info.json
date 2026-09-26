@@ -1,0 +1,13 @@
+{
+    "name": "EUSD Share",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/EUSDS-eos-eoseusdtoken",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "EUSDS",
+    "contract": "eoseusdtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

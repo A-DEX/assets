@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork SNX",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PSNX-eos-snx.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PSNX",
+    "contract": "snx.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

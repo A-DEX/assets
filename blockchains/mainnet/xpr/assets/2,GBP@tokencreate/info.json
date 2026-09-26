@@ -1,0 +1,13 @@
+{
+    "name": "GBP",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/GBP-proton-tokencreate",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "GBP",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

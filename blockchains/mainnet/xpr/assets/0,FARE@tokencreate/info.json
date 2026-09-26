@@ -1,0 +1,13 @@
+{
+    "name": "Commute ticket",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/FARE-proton-tokencreate",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "FARE",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

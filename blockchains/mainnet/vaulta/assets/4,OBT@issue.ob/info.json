@@ -1,0 +1,13 @@
+{
+    "name": "OBSwap",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/OBT-eos-issue.ob",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "OBT",
+    "contract": "issue.ob",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "XBOT",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XBOT-proton-nodebot",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XBOT",
+    "contract": "nodebot",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

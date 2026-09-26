@@ -1,0 +1,13 @@
+{
+    "name": "Party Bear Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/PBT-proton-tokencreate",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PBT",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Ontoken",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/ONTOKEN-wax-ontontoken12",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ONTOKEN",
+    "contract": "ontontoken12",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

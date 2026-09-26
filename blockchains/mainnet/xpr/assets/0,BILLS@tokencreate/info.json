@@ -1,0 +1,13 @@
+{
+    "name": "Home Bills",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BILLS-proton-tokencreate",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "BILLS",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

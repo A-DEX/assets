@@ -1,0 +1,13 @@
+{
+    "name": "FRINK coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/FRINK-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "FRINK",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

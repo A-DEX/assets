@@ -1,0 +1,13 @@
+{
+    "name": "FRANKCOIN",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/FRANK-proton-tokencreate",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "FRANK",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

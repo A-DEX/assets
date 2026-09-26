@@ -1,0 +1,13 @@
+{
+    "name": "GoldenChip",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/GCHIP-eos-goldenchipio",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "GCHIP",
+    "contract": "goldenchipio",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

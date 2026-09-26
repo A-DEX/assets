@@ -1,0 +1,13 @@
+{
+    "name": "Bonds",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BONDS-proton-tokencreate",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "BONDS",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

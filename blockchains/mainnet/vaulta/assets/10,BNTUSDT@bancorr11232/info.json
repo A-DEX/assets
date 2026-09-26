@@ -1,0 +1,13 @@
+{
+    "name": "BNTUSDT",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BNTUSDT-eos-bancorr11232",
+    "type": "",
+    "precision": 10,
+    "symbol_code": "BNTUSDT",
+    "contract": "bancorr11232",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

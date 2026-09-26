@@ -1,0 +1,13 @@
+{
+    "name": "EOS BET",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BET-eos-betdividends",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BET",
+    "contract": "betdividends",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

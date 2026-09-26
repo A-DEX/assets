@@ -1,0 +1,13 @@
+{
+    "name": "Metal Pay Dollar",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/MPD-proton-mpd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "MPD",
+    "contract": "mpd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

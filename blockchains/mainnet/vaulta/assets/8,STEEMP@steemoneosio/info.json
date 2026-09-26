@@ -1,0 +1,13 @@
+{
+    "name": "STEEMP on EOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/STEEMP-eos-steemoneosio",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "STEEMP",
+    "contract": "steemoneosio",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

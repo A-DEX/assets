@@ -1,0 +1,13 @@
+{
+    "name": "RMBC",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/RMBC-eos-renminbi",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "RMBC",
+    "contract": "renminbi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

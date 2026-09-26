@@ -1,0 +1,13 @@
+{
+    "name": "Shiba Inu",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/SHIB-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SHIB",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

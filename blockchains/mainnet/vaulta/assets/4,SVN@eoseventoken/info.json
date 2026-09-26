@@ -1,0 +1,13 @@
+{
+    "name": "eoseven",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SVN-eos-eoseventoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SVN",
+    "contract": "eoseventoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

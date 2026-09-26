@@ -1,0 +1,13 @@
+{
+    "name": "SX USDT/USN LP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SXA-eos-lptoken.sx",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SXA",
+    "contract": "lptoken.sx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Binance Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XBNB-proton-xtokens",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "XBNB",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

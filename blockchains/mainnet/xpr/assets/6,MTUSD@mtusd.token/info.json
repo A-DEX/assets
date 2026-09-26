@@ -1,0 +1,13 @@
+{
+    "name": "Meridian Trust USD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/MTUSD-proton-mtusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "MTUSD",
+    "contract": "mtusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

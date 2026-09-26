@@ -1,0 +1,13 @@
+{
+    "name": "Proton Gift Bot",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/GIFT-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "GIFT",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

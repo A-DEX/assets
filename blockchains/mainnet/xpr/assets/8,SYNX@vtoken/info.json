@@ -1,0 +1,13 @@
+{
+    "name": "SYNX",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/SYNX-proton-vtoken",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "SYNX",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

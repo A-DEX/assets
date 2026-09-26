@@ -1,0 +1,13 @@
+{
+    "name": "DolphinSwap",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/DOP-eos-dop.efi",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "DOP",
+    "contract": "dop.efi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

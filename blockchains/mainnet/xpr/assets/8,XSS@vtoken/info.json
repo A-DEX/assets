@@ -1,0 +1,13 @@
+{
+    "name": "XSS",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XSS-proton-vtoken",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "XSS",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

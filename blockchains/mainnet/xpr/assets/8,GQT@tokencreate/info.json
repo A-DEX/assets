@@ -1,0 +1,13 @@
+{
+    "name": "Gold Quant token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/GQT-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "GQT",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

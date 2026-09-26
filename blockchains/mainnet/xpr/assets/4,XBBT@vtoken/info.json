@@ -1,0 +1,13 @@
+{
+    "name": "XBBT",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XBBT-proton-vtoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XBBT",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

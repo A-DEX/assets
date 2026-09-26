@@ -1,0 +1,13 @@
+{
+    "name": "Newdex DF",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/DF-eos-issue.newdex",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "DF",
+    "contract": "issue.newdex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

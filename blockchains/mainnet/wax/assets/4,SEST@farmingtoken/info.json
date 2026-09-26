@@ -1,0 +1,13 @@
+{
+    "name": "SEST Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/SEST-wax-farmingtoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SEST",
+    "contract": "farmingtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

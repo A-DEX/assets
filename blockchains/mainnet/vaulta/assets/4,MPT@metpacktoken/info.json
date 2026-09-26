@@ -1,0 +1,13 @@
+{
+    "name": "Metal Packaging Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/MPT-eos-metpacktoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "MPT",
+    "contract": "metpacktoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

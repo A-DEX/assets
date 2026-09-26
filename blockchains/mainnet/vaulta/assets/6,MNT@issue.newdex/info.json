@@ -1,0 +1,13 @@
+{
+    "name": "Newdex MNT",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/MNT-eos-issue.newdex",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "MNT",
+    "contract": "issue.newdex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

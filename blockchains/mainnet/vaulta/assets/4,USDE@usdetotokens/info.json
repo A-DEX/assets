@@ -1,0 +1,13 @@
+{
+    "name": "USDE",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/USDE-eos-usdetotokens",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "USDE",
+    "contract": "usdetotokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

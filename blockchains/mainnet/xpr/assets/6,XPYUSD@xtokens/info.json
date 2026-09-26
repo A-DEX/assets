@@ -1,0 +1,13 @@
+{
+    "name": "Paypal USD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XPYUSD-proton-xtokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "XPYUSD",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

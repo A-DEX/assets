@@ -1,0 +1,13 @@
+{
+    "name": "Onchain",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ONCHAIN-proton-tokencreate",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ONCHAIN",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

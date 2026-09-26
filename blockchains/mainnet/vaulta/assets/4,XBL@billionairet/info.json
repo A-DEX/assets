@@ -1,0 +1,13 @@
+{
+    "name": "Billionaire Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/XBL-eos-billionairet",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XBL",
+    "contract": "billionairet",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

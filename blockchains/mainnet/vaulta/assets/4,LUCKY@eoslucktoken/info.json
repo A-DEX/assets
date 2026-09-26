@@ -1,0 +1,13 @@
+{
+    "name": "LUCKY",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/LUCKY-eos-eoslucktoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "LUCKY",
+    "contract": "eoslucktoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

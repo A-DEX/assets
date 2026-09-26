@@ -1,0 +1,13 @@
+{
+    "name": "FED",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/FED-proton-vtoken",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "FED",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

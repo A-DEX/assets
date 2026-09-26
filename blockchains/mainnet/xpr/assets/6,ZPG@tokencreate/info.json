@@ -1,0 +1,13 @@
+{
+    "name": "ZPGToken",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ZPG-proton-tokencreate",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "ZPG",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

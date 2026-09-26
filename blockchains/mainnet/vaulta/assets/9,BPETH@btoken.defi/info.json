@@ -1,0 +1,13 @@
+{
+    "name": "PETH Defibox Lending",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BPETH-eos-btoken.defi",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "BPETH",
+    "contract": "btoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

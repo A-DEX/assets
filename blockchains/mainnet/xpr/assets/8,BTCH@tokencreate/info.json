@@ -1,0 +1,13 @@
+{
+    "name": "Bitchcoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BTCH-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "BTCH",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

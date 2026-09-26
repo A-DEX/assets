@@ -1,0 +1,13 @@
+{
+    "name": "Ethereum on Steroids",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ETHROID-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ETHROID",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "VEGA",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/VEGA-proton-vtoken",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "VEGA",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "USDT",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/USDT-eos-tokens.wal",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "USDT",
+    "contract": "tokens.wal",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

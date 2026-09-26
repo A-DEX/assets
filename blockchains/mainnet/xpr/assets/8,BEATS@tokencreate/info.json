@@ -1,0 +1,13 @@
+{
+    "name": "BEATS Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BEATS-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "BEATS",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

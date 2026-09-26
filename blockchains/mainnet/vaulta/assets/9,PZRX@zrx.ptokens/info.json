@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork ZRX",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PZRX-eos-zrx.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PZRX",
+    "contract": "zrx.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

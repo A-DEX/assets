@@ -1,0 +1,13 @@
+{
+    "name": "Quadrillion Token Derivatives Alcor",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/QUAD-eos-sandiegocoin",
+    "type": "",
+    "precision": 3,
+    "symbol_code": "QUAD",
+    "contract": "sandiegocoin",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

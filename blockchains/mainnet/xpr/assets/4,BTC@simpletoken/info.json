@@ -1,0 +1,13 @@
+{
+    "name": "Buy The Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BTC-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BTC",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

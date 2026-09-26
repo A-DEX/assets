@@ -1,0 +1,13 @@
+{
+    "name": "PESETA",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/PTA-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PTA",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

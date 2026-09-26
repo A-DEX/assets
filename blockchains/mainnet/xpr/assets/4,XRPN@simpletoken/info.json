@@ -1,0 +1,13 @@
+{
+    "name": "xrpn token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XRPN-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XRPN",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

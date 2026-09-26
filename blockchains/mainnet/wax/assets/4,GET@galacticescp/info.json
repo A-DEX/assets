@@ -1,0 +1,13 @@
+{
+    "name": "Galactic Exchange Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/GET-wax-galacticescp",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "GET",
+    "contract": "galacticescp",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

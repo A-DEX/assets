@@ -1,0 +1,13 @@
+{
+    "name": "XDEX Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XDEX-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XDEX",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

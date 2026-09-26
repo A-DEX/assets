@@ -1,0 +1,13 @@
+{
+    "name": "Bank Bonds",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BANK-proton-tokencreate",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "BANK",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "SimpleDEX",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/SPDX-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SPDX",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

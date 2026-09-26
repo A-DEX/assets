@@ -1,0 +1,13 @@
+{
+    "name": "SX EOS Vault",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SXEOS-eos-token.sx",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "SXEOS",
+    "contract": "token.sx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

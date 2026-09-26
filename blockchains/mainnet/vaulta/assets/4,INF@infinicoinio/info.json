@@ -1,0 +1,13 @@
+{
+    "name": "Infinicoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/INF-eos-infinicoinio",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "INF",
+    "contract": "infinicoinio",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

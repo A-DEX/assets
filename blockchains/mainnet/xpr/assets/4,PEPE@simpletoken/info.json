@@ -1,0 +1,13 @@
+{
+    "name": "PEPE",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/PEPE-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PEPE",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

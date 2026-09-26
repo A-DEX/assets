@@ -1,0 +1,13 @@
+{
+    "name": "Proton Bee",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XPB-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XPB",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Pizza EUSDC",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PZEUSDC-eos-pztken.pizza",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "PZEUSDC",
+    "contract": "pztken.pizza",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "EUSD Bond",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/EUSDB-eos-eoseusdtoken",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "EUSDB",
+    "contract": "eoseusdtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

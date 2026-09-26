@@ -1,0 +1,13 @@
+{
+    "name": "Payments",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XPAY-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XPAY",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "AZUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/AZUSD-proton-azusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "AZUSD",
+    "contract": "azusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

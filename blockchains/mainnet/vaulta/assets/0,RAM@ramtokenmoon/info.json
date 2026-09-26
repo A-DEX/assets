@@ -1,0 +1,13 @@
+{
+    "name": "RAMtoken",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/RAM-eos-ramtokenmoon",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "RAM",
+    "contract": "ramtokenmoon",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

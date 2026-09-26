@@ -1,0 +1,13 @@
+{
+    "name": "Richcoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XRICH-proton-tokencreate",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XRICH",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "beta test token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BETA-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "BETA",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

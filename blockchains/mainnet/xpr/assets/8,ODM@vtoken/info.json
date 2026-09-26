@@ -1,0 +1,13 @@
+{
+    "name": "ODM",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ODM-proton-vtoken",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "ODM",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

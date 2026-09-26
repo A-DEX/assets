@@ -1,0 +1,13 @@
+{
+    "name": "Newdex",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/NDX-eos-newdexissuer",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "NDX",
+    "contract": "newdexissuer",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

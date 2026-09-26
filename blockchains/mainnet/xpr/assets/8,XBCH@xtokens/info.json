@@ -1,0 +1,13 @@
+{
+    "name": "Bitcoin Cash",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XBCH-proton-xtokens",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "XBCH",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

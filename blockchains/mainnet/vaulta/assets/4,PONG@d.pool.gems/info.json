@@ -1,0 +1,13 @@
+{
+    "name": "Pong",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PONG-eos-d.pool.gems",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PONG",
+    "contract": "d.pool.gems",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "UAHCASH",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/UAHCASH-eos-token.pcash",
+    "type": "",
+    "precision": 5,
+    "symbol_code": "UAHCASH",
+    "contract": "token.pcash",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "EOS Poker",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/POKER-eos-eospokercoin",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "POKER",
+    "contract": "eospokercoin",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

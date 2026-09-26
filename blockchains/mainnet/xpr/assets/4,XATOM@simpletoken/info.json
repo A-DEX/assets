@@ -1,0 +1,13 @@
+{
+    "name": "XPR ATOM",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XATOM-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XATOM",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

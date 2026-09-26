@@ -1,0 +1,13 @@
+{
+    "name": "End The Fed",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ETF-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ETF",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

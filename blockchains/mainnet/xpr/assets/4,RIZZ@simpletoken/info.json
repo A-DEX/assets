@@ -1,0 +1,13 @@
+{
+    "name": "The Rizzler Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/RIZZ-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "RIZZ",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

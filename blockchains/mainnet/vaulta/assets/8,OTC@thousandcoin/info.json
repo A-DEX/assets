@@ -1,0 +1,13 @@
+{
+    "name": "One Thousand Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/OTC-eos-thousandcoin",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "OTC",
+    "contract": "thousandcoin",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

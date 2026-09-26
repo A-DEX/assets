@@ -1,0 +1,13 @@
+{
+    "name": "Global ESystem",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ECOIN-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ECOIN",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

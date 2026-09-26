@@ -1,0 +1,13 @@
+{
+    "name": "Nimbus Protocol",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/NIMBUS-proton-tokencreate",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "NIMBUS",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

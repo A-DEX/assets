@@ -1,0 +1,13 @@
+{
+    "name": "ARGUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ARGUSD-proton-vtoken",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "ARGUSD",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

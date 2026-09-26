@@ -1,0 +1,13 @@
+{
+    "name": "ProtonMint",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/MINT-proton-protonmint",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "MINT",
+    "contract": "protonmint",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

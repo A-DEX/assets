@@ -1,0 +1,13 @@
+{
+    "name": "GME",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/GME-wax-goldmandiotk",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "GME",
+    "contract": "goldmandiotk",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "EOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XEOS-proton-xtokens",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XEOS",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

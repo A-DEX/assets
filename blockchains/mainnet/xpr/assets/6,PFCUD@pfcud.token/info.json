@@ -1,0 +1,13 @@
+{
+    "name": "PFCUD TOKEN",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/PFCUD-proton-pfcud.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "PFCUD",
+    "contract": "pfcud.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

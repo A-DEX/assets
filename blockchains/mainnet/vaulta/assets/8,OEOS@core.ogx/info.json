@@ -1,0 +1,13 @@
+{
+    "name": "OEOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/OEOS-eos-core.ogx",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "OEOS",
+    "contract": "core.ogx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

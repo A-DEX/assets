@@ -1,0 +1,13 @@
+{
+    "name": "Carrot",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/CRT-eos-carrotstoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "CRT",
+    "contract": "carrotstoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

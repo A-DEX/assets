@@ -1,0 +1,13 @@
+{
+    "name": "ZEN",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/ZEN-proton-vtoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "ZEN",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

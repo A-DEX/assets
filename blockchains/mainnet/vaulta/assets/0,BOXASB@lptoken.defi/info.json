@@ -1,0 +1,13 @@
+{
+    "name": "EUSDC/EUSDS Defibox LP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BOXASB-eos-lptoken.defi",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "BOXASB",
+    "contract": "lptoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

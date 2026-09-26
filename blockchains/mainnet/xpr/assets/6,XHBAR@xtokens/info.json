@@ -1,0 +1,13 @@
+{
+    "name": "Hedera",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XHBAR-proton-xtokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "XHBAR",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

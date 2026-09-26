@@ -1,0 +1,13 @@
+{
+    "name": "XPR Link",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XPRLNK-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "XPRLNK",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Metal Dollar",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XMD-proton-xmd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "XMD",
+    "contract": "xmd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork BAL",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PBAL-eos-bal.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PBAL",
+    "contract": "bal.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

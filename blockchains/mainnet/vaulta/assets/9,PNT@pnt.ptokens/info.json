@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PNT-eos-pnt.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PNT",
+    "contract": "pnt.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

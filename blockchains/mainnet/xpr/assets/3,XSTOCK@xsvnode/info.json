@@ -1,0 +1,13 @@
+{
+    "name": "XSTOCK",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XSTOCK-proton-xsvnode",
+    "type": "",
+    "precision": 3,
+    "symbol_code": "XSTOCK",
+    "contract": "xsvnode",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

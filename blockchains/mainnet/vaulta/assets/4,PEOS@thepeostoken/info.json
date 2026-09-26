@@ -1,0 +1,13 @@
+{
+    "name": "PEOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PEOS-eos-thepeostoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PEOS",
+    "contract": "thepeostoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

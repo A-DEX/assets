@@ -1,0 +1,13 @@
+{
+    "name": "Tether",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XUSDT-proton-xtokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "XUSDT",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

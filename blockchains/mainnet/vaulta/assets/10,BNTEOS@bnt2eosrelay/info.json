@@ -1,0 +1,13 @@
+{
+    "name": "BNTEOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BNTEOS-eos-bnt2eosrelay",
+    "type": "",
+    "precision": 10,
+    "symbol_code": "BNTEOS",
+    "contract": "bnt2eosrelay",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "CryptoPIX PXS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PXS-eos-pxstokensapp",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PXS",
+    "contract": "pxstokensapp",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

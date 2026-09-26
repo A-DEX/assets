@@ -1,0 +1,13 @@
+{
+    "name": "SIFTB",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/SIFTB-eos-stoken.ift",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "SIFTB",
+    "contract": "stoken.ift",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

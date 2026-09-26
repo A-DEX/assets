@@ -1,0 +1,13 @@
+{
+    "name": "Fortune Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/FORT-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "FORT",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ODOT",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/ODOT-eos-core.ogx",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "ODOT",
+    "contract": "core.ogx",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

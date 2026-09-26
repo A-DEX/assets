@@ -1,0 +1,13 @@
+{
+    "name": "EFS Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/EFS-wax-token.lh",
+    "type": "",
+    "precision": 2,
+    "symbol_code": "EFS",
+    "contract": "token.lh",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

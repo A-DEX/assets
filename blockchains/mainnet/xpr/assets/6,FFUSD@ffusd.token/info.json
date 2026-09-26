@@ -1,0 +1,13 @@
+{
+    "name": "FFUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/FFUSD-proton-ffusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "FFUSD",
+    "contract": "ffusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

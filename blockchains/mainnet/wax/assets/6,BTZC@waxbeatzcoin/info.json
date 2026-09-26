@@ -1,0 +1,13 @@
+{
+    "name": "BeatzCoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/BTZC-wax-waxbeatzcoin",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "BTZC",
+    "contract": "waxbeatzcoin",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

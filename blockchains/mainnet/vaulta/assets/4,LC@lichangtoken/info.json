@@ -1,0 +1,13 @@
+{
+    "name": "Lichang",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/LC-eos-lichangtoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "LC",
+    "contract": "lichangtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

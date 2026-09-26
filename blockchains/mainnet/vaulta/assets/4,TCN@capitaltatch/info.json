@@ -1,0 +1,13 @@
+{
+    "name": "Tatch Capital Note",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/TCN-eos-capitaltatch",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TCN",
+    "contract": "capitaltatch",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

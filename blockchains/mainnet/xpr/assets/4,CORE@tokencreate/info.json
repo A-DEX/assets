@@ -1,0 +1,13 @@
+{
+    "name": "Core",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/CORE-proton-tokencreate",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "CORE",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

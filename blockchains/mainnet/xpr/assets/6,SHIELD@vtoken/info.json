@@ -1,0 +1,13 @@
+{
+    "name": "SHIELD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/SHIELD-proton-vtoken",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "SHIELD",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

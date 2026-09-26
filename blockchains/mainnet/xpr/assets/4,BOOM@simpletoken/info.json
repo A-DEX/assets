@@ -1,0 +1,13 @@
+{
+    "name": "Boom Protocol",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BOOM-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BOOM",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

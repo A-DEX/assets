@@ -1,0 +1,13 @@
+{
+    "name": "HODL",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/HODL-proton-vtoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "HODL",
+    "contract": "vtoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

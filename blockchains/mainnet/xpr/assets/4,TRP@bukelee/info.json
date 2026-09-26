@@ -1,0 +1,13 @@
+{
+    "name": "TrumpCoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/TRP-proton-bukelee",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TRP",
+    "contract": "bukelee",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

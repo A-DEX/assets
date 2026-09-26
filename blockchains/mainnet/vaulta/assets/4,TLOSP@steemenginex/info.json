@@ -1,0 +1,13 @@
+{
+    "name": "TLOSP on EOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/TLOSP-eos-steemenginex",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TLOSP",
+    "contract": "steemenginex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

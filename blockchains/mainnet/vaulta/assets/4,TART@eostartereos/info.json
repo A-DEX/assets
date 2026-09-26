@@ -1,0 +1,13 @@
+{
+    "name": "EOSTARTER",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/TART-eos-eostartereos",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "TART",
+    "contract": "eostartereos",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

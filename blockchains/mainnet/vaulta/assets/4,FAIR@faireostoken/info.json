@@ -1,0 +1,13 @@
+{
+    "name": "FairEOS",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/FAIR-eos-faireostoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "FAIR",
+    "contract": "faireostoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

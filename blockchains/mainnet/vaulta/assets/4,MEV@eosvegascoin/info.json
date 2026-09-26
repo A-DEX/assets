@@ -1,0 +1,13 @@
+{
+    "name": "Royal Online Vegas",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/MEV-eos-eosvegascoin",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "MEV",
+    "contract": "eosvegascoin",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

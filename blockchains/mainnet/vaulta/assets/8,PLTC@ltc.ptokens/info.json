@@ -6,7 +6,7 @@
     "type": "",
     "precision": 8,
     "symbol_code": "PLTC",
-    "contract": "btc.ptokens",
+    "contract": "ltc.ptokens",
     "status": "active",
     "tags": [
     ],

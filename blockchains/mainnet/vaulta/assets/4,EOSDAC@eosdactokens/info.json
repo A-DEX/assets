@@ -1,0 +1,13 @@
+{
+    "name": "eosDAC",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/EOSDAC-eos-eosdactokens",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "EOSDAC",
+    "contract": "eosdactokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

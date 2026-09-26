@@ -1,0 +1,13 @@
+{
+    "name": "Crypto Peso",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PSO-eos-cryptopesosc",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "PSO",
+    "contract": "cryptopesosc",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

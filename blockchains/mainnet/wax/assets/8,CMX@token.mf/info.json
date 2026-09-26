@@ -1,0 +1,13 @@
+{
+    "name": "Comics Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://wax.bloks.io/tokens/CMX-wax-token.mf",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "CMX",
+    "contract": "token.mf",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

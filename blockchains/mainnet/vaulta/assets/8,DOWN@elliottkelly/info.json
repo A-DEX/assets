@@ -1,0 +1,13 @@
+{
+    "name": "Down Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/DOWN-eos-elliottkelly",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "DOWN",
+    "contract": "elliottkelly",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

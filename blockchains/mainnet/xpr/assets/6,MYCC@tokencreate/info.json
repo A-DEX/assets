@@ -1,0 +1,13 @@
+{
+    "name": "Consent Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/MYCC-proton-tokencreate",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "MYCC",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

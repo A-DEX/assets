@@ -1,0 +1,13 @@
+{
+    "name": "DeedAlert Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/DEED-proton-tokencreate",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "DEED",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Grizzly Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/GRIZZLY-eos-grizzlytoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "GRIZZLY",
+    "contract": "grizzlytoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

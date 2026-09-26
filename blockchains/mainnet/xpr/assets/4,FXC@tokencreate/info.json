@@ -1,0 +1,13 @@
+{
+    "name": "FlexCoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/FXC-proton-tokencreate",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "FXC",
+    "contract": "tokencreate",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

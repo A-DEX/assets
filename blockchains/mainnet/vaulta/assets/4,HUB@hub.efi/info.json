@@ -1,0 +1,13 @@
+{
+    "name": "eHUB Network",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/HUB-eos-hub.efi",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "HUB",
+    "contract": "hub.efi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Newdex COMP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/COMP-eos-issue.newdex",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "COMP",
+    "contract": "issue.newdex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

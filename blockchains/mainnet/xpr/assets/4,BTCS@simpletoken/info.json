@@ -1,0 +1,13 @@
+{
+    "name": "Bitcoins",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BTCS-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BTCS",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

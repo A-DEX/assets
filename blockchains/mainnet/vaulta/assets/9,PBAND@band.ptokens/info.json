@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork BAND",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PBAND-eos-band.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PBAND",
+    "contract": "band.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

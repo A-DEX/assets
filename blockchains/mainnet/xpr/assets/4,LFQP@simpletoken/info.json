@@ -1,0 +1,20 @@
+{
+    "name": "leafquip",
+    "website": "https://simpledex.fun/token/465",
+    "description": "LFQP is the native currency (and associated ledger system) of the Leafquip Superledger / T3-NET, hosted and documented at lfqp.grok.me",
+    "explorer": "https://explorer.xprnetwork.org/tokens/LFQP-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "LFQP",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [
+        "simpledex"
+    ],
+    "links": [
+        {
+            "name": "simpledex",
+            "url": "https://simpledex.fun/token/465"
+        }
+    ]
+}

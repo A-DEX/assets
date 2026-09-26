@@ -1,0 +1,13 @@
+{
+    "name": "BFUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BFUSD-proton-bfusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "BFUSD",
+    "contract": "bfusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

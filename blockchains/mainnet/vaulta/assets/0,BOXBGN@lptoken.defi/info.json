@@ -1,0 +1,13 @@
+{
+    "name": "EBOX/EUSDS Defibox LP",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/BOXBGN-eos-lptoken.defi",
+    "type": "",
+    "precision": 0,
+    "symbol_code": "BOXBGN",
+    "contract": "lptoken.defi",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

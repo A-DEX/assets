@@ -1,0 +1,13 @@
+{
+    "name": "Champions First USD",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/CFUSD-proton-cfusd.token",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "CFUSD",
+    "contract": "cfusd.token",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

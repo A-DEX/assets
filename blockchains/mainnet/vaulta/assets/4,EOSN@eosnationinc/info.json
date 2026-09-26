@@ -1,0 +1,13 @@
+{
+    "name": "EOSN",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/EOSN-eos-eosnationinc",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "EOSN",
+    "contract": "eosnationinc",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

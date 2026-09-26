@@ -1,0 +1,13 @@
+{
+    "name": "EUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/EUSD-eos-bitpietokens",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "EUSD",
+    "contract": "bitpietokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

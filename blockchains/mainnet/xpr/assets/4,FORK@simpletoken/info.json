@@ -1,0 +1,13 @@
+{
+    "name": "A Chain",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/FORK-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "FORK",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

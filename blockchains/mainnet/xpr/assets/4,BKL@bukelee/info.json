@@ -1,0 +1,13 @@
+{
+    "name": "BukeleCoin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/BKL-proton-bukelee",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "BKL",
+    "contract": "bukelee",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

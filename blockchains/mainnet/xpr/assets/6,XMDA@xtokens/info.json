@@ -1,0 +1,13 @@
+{
+    "name": "Moeda Loyalty Points",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/XMDA-proton-xtokens",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "XMDA",
+    "contract": "xtokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

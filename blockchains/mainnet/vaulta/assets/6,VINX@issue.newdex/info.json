@@ -1,0 +1,13 @@
+{
+    "name": "Newdex VINX",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/VINX-eos-issue.newdex",
+    "type": "",
+    "precision": 6,
+    "symbol_code": "VINX",
+    "contract": "issue.newdex",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

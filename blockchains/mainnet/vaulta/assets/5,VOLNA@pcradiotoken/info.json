@@ -1,0 +1,13 @@
+{
+    "name": "Volna Token",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/VOLNA-eos-pcradiotoken",
+    "type": "",
+    "precision": 5,
+    "symbol_code": "VOLNA",
+    "contract": "pcradiotoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

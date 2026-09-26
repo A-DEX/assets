@@ -1,0 +1,13 @@
+{
+    "name": "pNetwork UNI",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/PUNI-eos-uni.ptokens",
+    "type": "",
+    "precision": 9,
+    "symbol_code": "PUNI",
+    "contract": "uni.ptokens",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Telokanda",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/KANDA-eos-telokandaone",
+    "type": "",
+    "precision": 8,
+    "symbol_code": "KANDA",
+    "contract": "telokandaone",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

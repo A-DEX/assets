@@ -1,0 +1,13 @@
+{
+    "name": "LuckyGo",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/LKG-eos-luckygotoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "LKG",
+    "contract": "luckygotoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

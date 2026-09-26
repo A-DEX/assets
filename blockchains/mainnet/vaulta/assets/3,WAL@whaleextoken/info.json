@@ -1,0 +1,13 @@
+{
+    "name": "WhaleEx",
+    "website": "",
+    "description": "",
+    "explorer": "https://eos.bloks.io/tokens/WAL-eos-whaleextoken",
+    "type": "",
+    "precision": 3,
+    "symbol_code": "WAL",
+    "contract": "whaleextoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}

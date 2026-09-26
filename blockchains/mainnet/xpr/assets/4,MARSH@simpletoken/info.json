@@ -1,0 +1,13 @@
+{
+    "name": "Marshall Coin",
+    "website": "",
+    "description": "",
+    "explorer": "https://explorer.xprnetwork.org/tokens/MARSH-proton-simpletoken",
+    "type": "",
+    "precision": 4,
+    "symbol_code": "MARSH",
+    "contract": "simpletoken",
+    "status": "active",
+    "tags": [],
+    "links": []
+}
